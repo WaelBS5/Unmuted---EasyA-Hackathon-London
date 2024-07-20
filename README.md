@@ -1,2 +1,2 @@
 # Unmuted---EasyA-Hackathon-London
-Unmuted is a platform that allows content creators to share and monetize content across different parachains within Polkadot
+Unmuted empowers creators to freely share their work without censorship. Creators upload video metadata and mint NFTs for ownership. Viewers can discover content, subscribe to creators they love, and access exclusive content. Built on the Polkadot blockchain, UnleashContent utilizes decentralized storage and tokenized subscriptions to foster a creator-centric ecosystem.
